@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "stores": [
+    {
+      "id": 123,
+      "name": "Brasil",
+      "img": "https://teste.com.br/img.jpg"
+    }
+  ]
 }
